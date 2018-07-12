@@ -1,0 +1,6 @@
+noUpdate.html
+config/database.yml
+/db/*.sqlite3
+.tmp
+secret.yml
+mytry.html
